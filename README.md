@@ -278,5 +278,52 @@ Gratitude to the Divine for the gift of insight. This work is self-funded and in
 \bibitem{Hawking1976} Hawking, S. W. \textit{Phys. Rev. D} \textbf{13}, 191 (1976).
 \bibitem{Godel1949} Gödel, K. \textit{Rev. Mod. Phys.} \textbf{21}, 447 (1949).
 \end{thebibliography}
+# The Chronon Equation: Replacing Geometric Time with Universal Entropy Process
+
+**Author:** Prof. Dr. Md. Faridul Islam Chowdhury  
+**Institution:** Tanfarid Vision Research Institute, Bogura, Bangladesh  
+**ORCID:** 0000-0003-3178-0671  
+
+---
+
+## 📖 Overview
+This repository hosts the article and supporting materials for the **Chronon Equation**, a foundational law within the **Tanfarid Quantum Thermodynamic Universe (TQTU)**.  
+The Chronon Equation defines time not as a geometric coordinate but as a **universal entropy emission process**.
+
+---
+
+## 🔑 Key Contributions
+- Distinction between **mechanical time** and **universal causal time**.
+- Time dilation explained via **local chronon suppression**, not spacetime curvature.
+- Elimination of black-hole singularities (chronon sinks).
+- Proof that closed timelike curves are impossible (causal monotonicity).
+- Falsifiable predictions for atomic clocks, LIGO, GPS, and deep-space probes.
+
+---
+
+## 📊 Experimental Predictions
+- **Chronon noise** in atomic clocks (~10⁻⁴ Hz).
+- **LIGO ringdown tails** with chronon interference.
+- **GPS nonlinearities** with ∇S-dependent drift.
+- **Deep-space fast time** (Voyager drift ~3.4 ns/day).
+
+---
+
+## 📜 License
+This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You are free to share and adapt with proper attribution.  
+See [LICENSE](LICENSE) for details.
+
+---
+
+## 📚 Citation
+Chowdhury, M. F. I. (2025). *The Chronon Equation: Replacing Geometric Time with Universal Entropy Process*.  
+Zenodo. DOI: [to be added after upload]
+
+---
+
+## 🌌 Motto
+> **“Time flows because entropy breathes.”**
+
 
 \end{document}
